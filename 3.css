@@ -1,0 +1,24 @@
+body{
+background: #333;
+color: #fff;
+}
+
+.container{
+	margin-top: 200px;
+}
+
+.inputclass{
+	margin-top: 30px;
+	width: 380px;
+}
+.h1class{
+	width: 400px;
+}
+
+.selectclass{
+	height: 30px;
+}
+
+.divvalueclass{
+	margin-top: 20px;
+}
