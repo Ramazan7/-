@@ -4,7 +4,7 @@
 Есть выбор какое значение куда конвертировать с помощью тега SELECTION. <br>
 
 Так выглядить приложение 
-![image](https://user-images.githubusercontent.com/30295015/47569054-59576e00-d93b-11e8-8554-05753559fa92.png)
+![image](https://user-images.githubusercontent.com/30295015/47569282-e0a4e180-d93b-11e8-9fbc-08d66fe79bbc.png)
 
 Если ввести значение, то отрисуются нужные теги и значении
 ![qq](https://user-images.githubusercontent.com/30295015/47568917-ffef3f00-d93a-11e8-9f44-5c8e1abbcb50.png)
