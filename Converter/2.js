@@ -36,7 +36,7 @@ function operations(value){
 		var divvalues = document.getElementById('divvalueid');
 		var m,sm;
 		m = value * 1000;
-		sm = m * 100;
+		sm = value * 100000;
 		divvalues.innerHTML= "<h1>Метры: "+m+"м </h1>" + "<h1>Сантиметры: "+sm+"см </h1>";
 	}
 	if(selected == "Метры"){
@@ -50,7 +50,7 @@ function operations(value){
 		var divvalues = document.getElementById('divvalueid');
 		var km,m;
 		m = value / 100;
-		km = m / 1000;
+		km = value / 100000;
 		divvalues.innerHTML= "<h1>Километры: "+km+"км </h1>" + "<h1>Метры: "+m+"см </h1>";
 	}
 
